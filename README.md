@@ -1,6 +1,6 @@
 # SummarizeText
 # PDF Summarization App (Map-Reduce)
-![image alt] ([image_url](https://github.com/Kabhishek021/SummarizeText/blob/main/Summarize_image.png))
+![image alt] (https://github.com/Kabhishek021/SummarizeText/blob/main/Summarize_image.png)
 ## 📌 Overview
 This is a **Streamlit-based PDF Summarization App** that utilizes **LangChain's Map-Reduce strategy** to summarize uploaded PDF documents. The app leverages **Groq LLM** and **HuggingFace embeddings** for accurate text processing and summarization.
 
